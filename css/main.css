@@ -3240,6 +3240,12 @@
 
 /* Intro */
 
+	#intro .avatar {
+		max-width: 300px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 	#intro .logo {
 		border-bottom: 0;
 		display: inline-block;
